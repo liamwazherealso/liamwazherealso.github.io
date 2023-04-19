@@ -68,6 +68,15 @@
 				.wrapper.style3-alt & {
 					color: _palette(accent3-alt);
 				}
+
+				.wrapper.style4 & {
+					color: _palette(accent3);
+				}
+
+				.wrapper.style-alt & {
+					color: _palette(accent3-alt);
+				}
+
 			}
 		}
 	}
