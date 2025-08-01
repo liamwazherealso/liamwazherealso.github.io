@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/liamwazherealso/liamwazherealso.github.io/compare/v1.0.0...v1.0.1) (2025-08-01)
+
+
+### Bug Fixes
+
+* skip github pr in action ([a492c79](https://github.com/liamwazherealso/liamwazherealso.github.io/commit/a492c791642a1081aea03e02bc79dcd90ff41514))
+* skip github pr in action ([ad72675](https://github.com/liamwazherealso/liamwazherealso.github.io/commit/ad726758ac65456ce41de7ae9fd48d6db87b9bf7))
+
 ## 1.0.0 (2024-08-15)
 
 
